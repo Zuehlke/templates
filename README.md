@@ -14,14 +14,16 @@ $VISUAL my-awesome-project/README.md
 
 ## Contributing
 
+See the [CONTRIBUTING] document.
 Thank you, [contributors]!
 
+  [CONTRIBUTING]: CONTRIBUTING.md
   [contributors]: https://github.com/zuehlke/templates/graphs/contributors
 
 ## License
 
 Open source **templates** is Copyright (c) 2017 Zühlke.
-It contains free software and data that may be redistributed
+It contains free software that may be redistributed
 under the terms specified in the [LICENSE] file.
 
 [LICENSE]: /LICENSE
