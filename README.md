@@ -30,7 +30,7 @@ under the terms specified in the [LICENSE] file.
 
 ## About
 
-![Zuehlke](https://www.zuehlke.com/static/images/base/base-2x/logo-zuehlke-small.png)
+![Zuehlke](https://avatars2.githubusercontent.com/u/10219568?v=3&s=200)
 
 **Templates** is maintained and funded by Zühlke.
 The names and logos for Zühlke are trademarks of Zühlke.
