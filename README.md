@@ -37,7 +37,7 @@ The names and logos for Zühlke are trademarks of Zühlke.
 
 We :heart: open source software!
 See [our success stories][success]
-or [contat us][contact] to empower your ideas.
+or [contact us][contact] to empower your ideas.
 
   [success]: https://www.zuehlke.com/ch/en/success-stories/?utm_source=github
   [contact]: https://www.zuehlke.com/ch/en/about-us/contact/?utm_source=github
