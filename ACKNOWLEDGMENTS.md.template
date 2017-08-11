@@ -7,7 +7,6 @@ If your project builds upon other software, parts of software (libraries) or sim
 ## Java Libraries
 
 + Ant
-++ http://ant.apache.org/
-++ Author: The Apache Software Foundation
-++ License: **ASL**
-
+  ++ http://ant.apache.org/
+  ++ Author: The Apache Software Foundation
+  ++ License: **ASL**
